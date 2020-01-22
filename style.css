@@ -1,0 +1,31 @@
+form {
+    margin: auto;
+    position: relative;
+}
+
+.formtitle {
+    font-weight: 800;
+}
+
+.legendform {
+    font-size: 1.2em;
+    color: chocolate;
+    font-weight: 900;
+}
+fieldset {
+    background-color: rgb(197, 211, 164);
+    background-image: url(./image/check-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: 1%;
+    background-position-y: 10%;
+}
+
+.inputbox {
+    line-height: 2em;
+    margin-left: 20%;
+}
+
+.submitform {
+    background-color: chocolate;
+    color: white;
+}
